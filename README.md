@@ -11,7 +11,8 @@
 <br>
 <h2>📺 Youtube:</h2>
 <a href="https://www.youtube.com/@CryotoByteChronicles">Main Page</a></h1>
-
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 <br>
 -
 <h2>📺 Writeups:</h2>
