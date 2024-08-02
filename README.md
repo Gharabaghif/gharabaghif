@@ -1,7 +1,7 @@
 ## Hi there 👋🌱
 <h1>Cybersecurity/Network Engineer, System Administrator</a></h1>
-<a href="https://www.linkedin.com/in/gharabaghi">Linkedin, <a href="https://www.youtube.com/@CryotoByteChronicles">Youtube</a>
-Linkedin
+<a href="https://www.linkedin.com/in/gharabaghi">Linkedin</a>
+<a href="https://www.youtube.com/@CryotoByteChronicles">Youtube</a>
 <br>
 <br>
 <br>
