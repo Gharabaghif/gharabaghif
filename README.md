@@ -1,12 +1,12 @@
 ## Hi there 👋🌱
-<h1>Cybersecurity/Network Engineer, System Administrator</a></h1>
+<h2>Cybersecurity/Network Engineer, System Administrator</a></h2>
 <a href="https://www.linkedin.com/in/gharabaghi">Linkedin</a><br>
 <a href="https://www.youtube.com/@CryotoByteChronicles">Youtube</a><br>
 <br>
 <br>
 <br>
 <h2>👨‍💻 Scripts:</h2>
-<b> <a href="https://github.com/Gharabaghif/TechnicalDocuments/blob/main/ActiveDirectoryManagement.ps1">Script to automatically disable Inactive Users and Computers in a Domain</a> </b>
+<b> <a href="https://github.com/Gharabaghif/TechnicalDocuments/blob/main/ActiveDirectoryManagement.ps1">Automatically disable Inactive Users and Computers in a Domain</a> </b>
 <br>-
 <h2>😎 Projects:</h2>
 -
