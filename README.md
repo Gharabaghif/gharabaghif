@@ -1,7 +1,7 @@
 ## Hi there 👋🌱
 <h1>Cybersecurity/Network Engineer, System Administrator</a></h1>
-<a href="https://www.linkedin.com/in/gharabaghi">Linkedin</a>
-<a href="https://www.youtube.com/@CryotoByteChronicles">Youtube</a>
+<a href="https://www.linkedin.com/in/gharabaghi">Linkedin</a><br>
+<a href="https://www.youtube.com/@CryotoByteChronicles">Youtube</a><br>
 <br>
 <br>
 <br>
@@ -13,8 +13,6 @@
 <br>
 <h2>📺 Youtube:</h2>
 <a href="https://www.youtube.com/@CryotoByteChronicles">Main Page</a></h1>
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 <br>
 -
 <h2>📺 Writeups:</h2>
